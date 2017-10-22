@@ -1,6 +1,8 @@
+[![Build Status](https://travis-ci.org/bernicek/yummy_Recipe_Bernice.svg?branch=master)](https://travis-ci.org/bernicek/yummy-Recipe-Bernice)
+
 # yummyrecipe
 Yummy Recipe is an Interface where the user can sign in to create account, login, publish, update  and delete option to make any recipe.
-[![Build Status](https://travis-ci.org/bernicek/yummy_Recipe_Bernice.svg?branch=master)](https://travis-ci.org/bernicek/yummy-Recipe-Bernice)
+
 
 # Description	
 
