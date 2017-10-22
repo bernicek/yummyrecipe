@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/bernicek/yummyrecipe.svg?branch=master)](https://travis-ci.org/bernicek/yummyrecipe)
+[![Coverage Status](https://coveralls.io/repos/github/bernicek/yummyrecipe/badge.svg?branch=master)](https://coveralls.io/github/bernicek/yummyrecipe?branch=master)
 
 # yummyrecipe
 Yummy Recipe is an Interface where the user can sign in to create account, login, publish, update  and delete option to make any recipe.
